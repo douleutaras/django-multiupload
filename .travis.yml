@@ -4,8 +4,8 @@ dist: xenial
 
 env:
   - TOX_ENV=py2.7-dj1.11
-  - TOX_ENV=py3.7-dj2.0
-  - TOX_ENV=py3.7-dj2.1
+  - TOX_ENV=py3.6-dj2.0
+  - TOX_ENV=py3.6-dj2.1
   - TOX_ENV=lint
 
 install:
